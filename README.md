@@ -2,7 +2,7 @@
 
 ## Goal :
 
-This project aims to graw the evolution of the stock market value based on sentiment analysis.
+This project aims to draw the evolution of the stock market value based on sentiment analysis.
 
 ## Data
 
